@@ -1,0 +1,40 @@
+.header
+{
+    background: purple;
+    height: 100px;
+}
+.redBody
+{
+    background: red;
+    height: 800px;
+    width: 850px;
+    margin-left: 12%;
+    margin-bottom: -40%;
+    padding-top: 60px;
+
+}
+.blueBox
+{
+    background: blue;
+    height: 250px;
+    width: 550px;
+    margin-left: 17%;
+    padding-top: 5%;
+}
+.yellowBox
+{
+    background: yellow;
+    height: 120px;
+    width: 120px;
+    margin-left: 5%;
+    margin-top: -3%;
+
+}
+.greenBox
+{
+    background: green;
+    height: 190px;
+    width: 340px;
+    margin-left: 30%;
+    margin-top: -21.9%;
+}
